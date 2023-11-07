@@ -1,0 +1,44 @@
+.titulo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: green;
+    width: 60%;
+    margin-right: 25%;
+    margin-left: 20%;
+    color: blue;
+    margin-bottom: 0px;
+    margin-top: 0.9%;
+}
+#agregar{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    top: 0%;
+    flex-direction: column;
+    background-color: brown;
+    border: 1px;
+    color:aquamarine;
+    
+}
+li{
+    
+}
+ul{
+    display: grid;
+    margin-top: 0px;
+    justify-content: center;
+    list-style: none;
+    width: 50%;
+    padding: 0%;
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color: blueviolet;
+}
+body{
+    background-color: black;
+}
